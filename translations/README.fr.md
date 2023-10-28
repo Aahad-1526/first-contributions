@@ -25,7 +25,7 @@ Cela va créer une copie du répertoire sur votre compte.
 
 Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icone *copier dans le presse-papier*.
 
-Ouvrez un invite de commande et exécutez les commandes git suivantes :
+Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez les commandes git suivantes :
 
 ```
 git clone "l'url que vous venez de copier"
@@ -47,7 +47,7 @@ Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y ê
 ```
 cd first-contributions
 ```
-Maintenant créez une branche avec le commande `git checkout` :
+Maintenant créez une branche avec la commande `git checkout` :
 ```
 git checkout -b <add-votre-nom>
 ```
